@@ -1,2 +1,6 @@
 Archivo directo en el branch master
+<<<<<<< HEAD
 #Este archivo lo estoy editando antes de actualizar uno mas reciente desde el browser
+=======
+## editando el archivo desde el browser
+>>>>>>> 6d4ff9ea7dacd094e05e64be3cfb687cef15f071
